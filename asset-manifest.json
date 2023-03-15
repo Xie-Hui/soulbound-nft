@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soulbound-nft/static/css/main.073c9b0a.css",
+    "main.js": "/soulbound-nft/static/js/main.ebf0e4bb.js",
+    "static/js/787.e40c46e7.chunk.js": "/soulbound-nft/static/js/787.e40c46e7.chunk.js",
+    "index.html": "/soulbound-nft/index.html",
+    "main.073c9b0a.css.map": "/soulbound-nft/static/css/main.073c9b0a.css.map",
+    "main.ebf0e4bb.js.map": "/soulbound-nft/static/js/main.ebf0e4bb.js.map",
+    "787.e40c46e7.chunk.js.map": "/soulbound-nft/static/js/787.e40c46e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ebf0e4bb.js"
+  ]
+}
